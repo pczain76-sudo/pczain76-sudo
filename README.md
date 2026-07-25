@@ -1,4 +1,4 @@
-![logo](https://github.com/pczain76-sudo/pczain76-sudo/blob/main/Github%20Banner.png)
+![logo](https://github.com/pczain76-sudo/pczain76-sudo/blob/f84ea4020009b47f36ade700af799d943571041e/Github_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ali Zain</h1>
 
